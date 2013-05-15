@@ -1,4 +1,4 @@
-.stepy-header { list-style: none; padding: 0; width: 724px }
+.stepy-header { list-style: none; padding: 0; }
   .stepy-header li { cursor: pointer; float: left; padding: 10px }
     .stepy-header li.stepy-error { background: url('../demo/img/error.png') no-repeat right top }
     .stepy-header li div { color: #CCC; font: bold 2.8em verdana; text-shadow: 1px 1px #F8F8F8 }
